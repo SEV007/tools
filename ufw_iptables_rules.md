@@ -7,14 +7,13 @@ https://stackoverflow.com/questions/10197405/how-can-i-remove-specific-rules-fro
 
 //list all iptables rules
 iptables -S
-iptables -L INPUT --line-numbers
+iptables -L INPUT --line-numbers  
+  
 
+-A	ADD  
+-D	DELETE  
+-F	DROP ALL RULES  
+  
 
--A	ADD
--D	DELETE
--F	DROP ALL RULES
-
-
-
-
+  
 networkctl
