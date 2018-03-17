@@ -1,11 +1,11 @@
 ## SOFTWARE LIST
 
-#### * Software
-#### * Docker CE
-#### * Kubernetes
-#### * Openvz
-#### * Rancher Labs
-#### * Vagrant
+#### Software
+#### Docker CE
+#### Kubernetes
+#### Openvz
+#### Rancher Labs
+#### Vagrant
 
 ### Alpine Linux
 
@@ -24,9 +24,9 @@
 
 ### Virtualization
 
-### * QEMU KVM
-### * Xen Project
-### * Citrix
+#### QEMU KVM
+#### Xen Project
+#### Citrix
 
 #### additional info
 * [https://wiki.xen.org/wiki/Xen_Project_Software_Overview#Host_and_Guest_Install](https://wiki.xen.org/wiki/Xen_Project_Software_Overview#Host_and_Guest_Install)
@@ -35,6 +35,6 @@
 * [https://polyverse.io/index.html](https://polyverse.io/index.html)
 
 
-EMPTY CACHE AND BUFFERS
+#### EMPTY CACHE AND BUFFERS
 * [https://www.tecmint.com/clear-ram-memory-cache-buffer-and-swap-space-on-linux/](https://www.tecmint.com/clear-ram-memory-cache-buffer-and-swap-space-on-linux/)
 * [https://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system](https://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system)
