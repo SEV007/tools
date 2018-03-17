@@ -2,8 +2,8 @@ ls /etc/rc*.d	//list all startup services
   
 update-rc.d -f avahi_daemon disable	//remove service from startup  
   
-update-rc.d avahi-daemon defaults	//restore disabled service from startup  
-  
+update-rc.d avahi-daemon defaults	//restore disabled service from startup 
+
   
 service --status-all  
   

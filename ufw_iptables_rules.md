@@ -16,4 +16,4 @@ iptables -L INPUT --line-numbers
   
 
   
-networkctl
+#### networkctl

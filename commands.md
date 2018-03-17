@@ -30,6 +30,7 @@ Filename                Type        Size    Used    Priority
 /dev/zram2                              partition   1524800 276296  5  
 /dev/zram3                              partition   1524800 275392  5  
   
+SWAPPINESS SETTING
   
 sysctl vm.swappiness=99  
   
