@@ -33,6 +33,7 @@
 * [https://www.cyberciti.biz/tips/linux-virtualization-software.html](https://www.cyberciti.biz/tips/linux-virtualization-software.html)
 * [https://www.xenproject.org/users/virtualization.html](https://www.xenproject.org/users/virtualization.html)
 * [https://polyverse.io/index.html](https://polyverse.io/index.html)
+* [QEMU Network Configuration](https://wiki.qemu.org/Documentation/Networking)
 
 
 #### EMPTY CACHE AND BUFFERS
