@@ -1,4 +1,4 @@
-SSOFTWARE LIST
+SOFTWARE LIST
 
 #### Software
 #### Docker CE
