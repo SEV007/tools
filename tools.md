@@ -73,9 +73,13 @@ Monit
 
 Iftop
 
+Htop
+
 Monitorix
 
-Vnstat
+Vmstat
+
+Vnstat // Vnstat PHP GUI
 
 Nmon
 
@@ -112,6 +116,17 @@ Netload
 Ifstat
 
 Dstat
+
+Monit //complete tool with GUI
+
+Monitorix // complete simple tool with GUI servers and embedded devices
+
+
+
+Local user tracing
+
+last -F		//login details
+lastcomm	//last executed command
 
 ip
 traceroute
