@@ -7,7 +7,7 @@ What are some good GUI tools that can simplify your Linux sysadmin tasks? Let's 
 
 * 1: MySQL Workbench
 
-MySQL Workbench is one of my favorite tools for working with MySQL databases. You can work locally or remotely with this well designed GUI tool. But MySQL Workbench isn't just for managing previously created databases. It also helps you design, develop, and administer MySQL databases. A newer addition to the MySQL Workbench set of tools is the ability to easily migrate Microsoft SQL Server, Microsoft Access, Sybase ASE, PostgreSQL, and other RDBMS tables, objects, and data to MySQL. That alone makes MySQL Workbench worth using.
+	MySQL Workbench is one of my favorite tools for working with MySQL databases. You can work locally or remotely with this well designed GUI tool. But MySQL Workbench isn't just for managing previously created databases. It also helps you design, develop, and administer MySQL databases. A newer addition to the MySQL Workbench set of tools is the ability to easily migrate Microsoft SQL Server, Microsoft Access, Sybase ASE, PostgreSQL, and other RDBMS tables, objects, and data to MySQL. That alone makes MySQL Workbench worth using.
 
 * 2: phpMyAdmin
 
