@@ -125,12 +125,12 @@ Monitorix // complete simple tool with GUI servers and embedded devices
   
 Local user tracing  
   
-last -F		//login details
-lastcomm	//last executed command
+last -F		//login details  
+lastcomm	//last executed command  
   
-ip
-traceroute
-tracepath
+ip  
+traceroute  
+tracepath  
 
 Mc
 
@@ -143,8 +143,8 @@ http://www.rapidtables.com/code/linux/ls.htm
 
 for tree
 
-ls -R
-ls -lR
+ls -R  
+ls -lR  
 
 or install tree
 
@@ -153,21 +153,21 @@ tree -d
 lshw
 -----------------------------------------------------
 
-nsenter_namespaces
-loginctl list-users
-
-gvfs-monitor-dir
-gvfs-monitor-dir *
-gvfs-monitor-file
-gvfs-monitor-file *
-
-
+nsenter_namespaces  
+loginctl list-users  
+  
+gvfs-monitor-dir  
+gvfs-monitor-dir *  
+gvfs-monitor-file  
+gvfs-monitor-file *  
+  
+  
 discover -b
 
 apt search
 mtp-tools //android
 
-nm	//network manager
+nm	//network manager  
 nmtui
 
 -----------------------------------------------------
