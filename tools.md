@@ -120,14 +120,14 @@ Dstat
 Monit //complete tool with GUI
 
 Monitorix // complete simple tool with GUI servers and embedded devices
-
-
-
-Local user tracing
-
+  
+  
+  
+Local user tracing  
+  
 last -F		//login details
 lastcomm	//last executed command
-
+  
 ip
 traceroute
 tracepath
